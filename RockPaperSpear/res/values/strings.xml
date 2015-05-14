@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rock Paper Spear</string>
+    <string name="choose">Choose wisely:</string>
+    <string name="result">Result:</string>
+    <string name="score">SCORE</string>
+    <string name="reset">RESET</string>
+    <string name="draw">DRAW</string>
+    <string name="win">WIN</string>
+    <string name="loss">LOSS</string>
+    <string name="numb">55</string>
+    <string name="ad_title">SURPRISE!</string>
+    <string name="ad_msg">Rack up 3 wins for a surprise!</string>
+    <string name="ad_popupMsg">Amazing!\nYou\'ve won a FULL SCHOLARSHIP* to FSU\'s Computer Science program! Simply click the link below: </string>
+    <string name="ad_disclaimer">*Scholarship does not include cost of tuition or room/board. 
+        You must also apply to the university and be accepted. 
+        Additional fees may apply.</string>
+    <string name="close">Back to game</string>
+
+</resources>

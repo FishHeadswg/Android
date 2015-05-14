@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/garnet"
+    tools:context="${packageName}.${activityClass}" >
+    <ImageView
+    android:id="@+id/nole"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="100dp"
+    android:padding="10dp"
+    android:adjustViewBounds="true"
+    android:src="@drawable/nole"
+    tools:ignore="ContentDescription" />
+    <Button 
+    android:id="@+id/button"
+    android:text="@+id/gator"
+    android:background="@color/gold"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_below="@+id/nole"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    />
+</RelativeLayout>

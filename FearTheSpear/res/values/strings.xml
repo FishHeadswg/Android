@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fear The Spear</string>
+    <string name="fts">CLICK TO PLAY</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+    <string name="wc">War Chant</string>
+    <string name="fs">Fight Song</string>
+    <string name="vs">Victory Song</string>
+    <string name="gag">Gold and Garnet</string>
+    <string name="cheer">Cheer</string>
+    <string name="fqf">4th Quarter Fanfare</string>
+    <string name="su">Seminole Uprising</string>
+
+</resources>

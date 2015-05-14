@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="title">Gators \'N\' Noles</string>
+    <string name="gator">Show Me A Gator!</string>
+    <string name="nole">Show Me A Nole!</string>
+</resources>

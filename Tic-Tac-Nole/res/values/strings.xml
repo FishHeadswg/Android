@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tic-Tac-Nole</string>
+    <string name="playagain">Play Again</string>
+    <string name="footer">Creator: Trevor Richardson</string>
+
+</resources>

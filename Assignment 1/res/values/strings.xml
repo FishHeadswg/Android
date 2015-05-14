@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="welcome_header">Welcome to:</string>
+    <string name="course_number">CIS 4930</string>
+    <string name="course_name">ANDROID DEVELOPMENT</string>
+    <string name="student_name">Trevor Richardson</string>  
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">CIS 4930 - ANDROID DEVELOPMENT</string>
+</resources>

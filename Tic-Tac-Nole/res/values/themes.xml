@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="fsuTitleBar">
+        <item name="android:background">#540115</item>
+        <item name="android:icon">@drawable/ic_launcher</item>
+        <item name="android:text">Tic-Tac-Nole</item>
+        <item name="android:windowTitleSize">60dip</item>
+    </style>
+
+</resources>
